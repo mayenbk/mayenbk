@@ -1,8 +1,15 @@
 MAYEN BEN-KOKO (SHE/HER) 
-Interested in the intersection of AI, Data, and Healthcare Innovation.
 
-With a background in biomedical engineering and healthcare research, I’m passionate about how data and technology can improve lives.
+**Exploring the intersection of AI, Data, and Healthcare Innovation.**
 
-I am currently learning AI for healthcare and cybersecurity to better understand how digital health data can stay secure as it scales.
+- Background in biomedical engineering and healthcare research.
 
-I am open to collaborating on projects that connect tech with impact, particularly in AI for healthcare, data visualization, and digital ethics.
+- Passionate about how data and technology can improve lives and support better decision-making especially in medical sector.
+
+-  Contributing to the community via learning, mentorship and open projects
+
+- Building **MedInsight Analytics**; turning healthcare data into actionable insights
+
+- Learning **AI for healthcare** and **Cybersecurity** to understand opportunities and protection in digital health
+
+- Open to collaborating on projects
