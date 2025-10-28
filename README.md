@@ -2,7 +2,7 @@ MAYEN BEN-KOKO (SHE/HER)
 
 **Exploring the intersection of AI, Data, and Healthcare Innovation.**
 
-- Background in biomedical engineering and healthcare research.
+- Background in biomedical engineering and research.
 
 - Passionate about how data and technology can improve lives and support better decision-making especially in medical sector.
 
