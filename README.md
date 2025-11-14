@@ -9,7 +9,7 @@ Passionate about how data and technology can improve lives and support better de
 - Building **MedInsight Analytics**; turning healthcare data into actionable insights
 - Learning **AI for healthcare** and **Cybersecurity** to understand opportunities and protection in digital health
   
-## Community & Volunteering
+### Community & Volunteering
 - Volunteer at Droidcon London 2025
 - Member, Women in Tech Network
 
