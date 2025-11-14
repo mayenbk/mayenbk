@@ -1,4 +1,4 @@
-MAYEN BEN-KOKO (SHE/HER) 
+## MAYEN BEN-KOKO (SHE/HER) 
 
 **Exploring the intersection of AI, Data, and Healthcare Innovation.**
 
