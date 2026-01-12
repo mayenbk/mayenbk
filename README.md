@@ -1,20 +1,34 @@
 ## MAYEN BEN-KOKO (SHE/HER) 
 
-**Exploring the intersection of AI, Data, and Healthcare Innovation.**
+Hi, I’m Mayen
 
-Background in biomedical engineering and research.
+I am an applied data and digital systems practitioner focused on building practical, reliable analytics and workflows across operational and healthcare-adjacent contexts.
 
-Passionate about how data and technology can improve lives and support better decision-making especially in medical sector.
-- Contributing to the community via learning, mentorship and open projects
-- Building **MedInsight Analytics**; turning healthcare data into actionable insights
-- Learning **AI for healthcare** and **Cybersecurity** to understand opportunities and protection in digital health
-  
-### Community & Volunteering
-- Volunteer at Droidcon London 2025
-- Member, Women in Tech Network
+My work emphasises data structure, exploratory analysis, and responsible use of machine learning, prioritising clarity and usefulness over complexity or hype.
+---
 
+### What I work on
 
-Open to collaborating on projects in;
-- Data insights & analytics preferably in healthcare
-- Data visualization / dashboards  
-- Responsible & ethical technology  
+- Applied data analysis and exploratory analytics
+
+- Lightweight digital systems and workflow design
+
+- Healthcare-adjacent analytics and data responsibility
+
+- Documentation-first, learning-focused open-source projects
+
+---
+
+### Selected work
+
+- MedInsights, applied healthcare-adjacent data analysis and insight exploration
+
+- HealthShield, exploratory project on data security and responsible handling of sensitive information
+
+- MentorDevHub, community learning initiative supporting practical data and digital skills
+
+---
+
+### Community & learning
+
+I contribute to the tech ecosystem through technical writing, mentorship-style open-source guidance, and community involvement, with a focus on making data and machine-learning concepts approachable and context-appropriate.
