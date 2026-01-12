@@ -5,6 +5,7 @@ Hi, I’m Mayen
 I am an applied data and digital systems practitioner focused on building practical, reliable analytics and workflows across operational and healthcare-adjacent contexts.
 
 My work emphasises data structure, exploratory analysis, and responsible use of machine learning, prioritising clarity and usefulness over complexity or hype.
+
 ---
 
 ### What I work on
