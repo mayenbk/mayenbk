@@ -4,7 +4,7 @@ Hey, I am Mayen
 
 I am a data and digital systems practitioner based in London. My work sits somewhere between applied AI, research, data engineering, and figuring out why digital systems don't work the way they should particularly in health and public sector contexts across the UK and Africa.
 
-I have an MSc in Biomedical Engineering from Queen Mary, and I run [Giboel & Co Ltd], a data and AI consultancy. I also founded [DSReview](https://dsreview.org), a quarterly publication on digital infrastructure and data governance.
+I have an MSc in Biomedical Engineering from Queen Mary, and I run [Giboel & Co Ltd](https://giboel.co), a data and AI consultancy. I also founded [DSReview](https://dsreview.org), a quarterly publication on digital infrastructure and data governance.
 
 I am open to contracts, consulting engagements, and research collaborations. If something here is useful to you, feel free to reach out.
 
