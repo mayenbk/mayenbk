@@ -1,6 +1,6 @@
 ## MAYEN BEN-KOKO (SHE/HER) 
 
-# Hey, I am Mayen
+Hey, I am Mayen
 
 I am a data and digital systems practitioner based in London. My work sits somewhere between applied AI, research, data engineering, and figuring out why digital systems don't work the way they should particularly in health and public sector contexts across the UK and Africa.
 
@@ -11,14 +11,14 @@ I am open to contracts, consulting engagements, and research collaborations. If 
 ---
 
 ### Research
-- ML framework for neonatal mortality risk stratification using NDHS data · *WorldS4 2026*
-- ML model for predicting the effect of toxic heavy metals in drinking water · *SEB4SDG 2026, Landmark University*
+- ML framework for neonatal mortality risk stratification using NDHS data
+- ML model for predicting the effect of toxic heavy metals in drinking water
 - Hybrid AI model for civil engineering applications · *Discover Civil Engineering, Springer Nature*
 - DSR Data Readiness Index; a 7-dimension framework for assessing data maturity in organisations
 
 ---
 
-### 🔨 Building
+### Building
 - [neonatal-mortality-ml](#) risk stratification model, NDHS Nigeria
 - [dsr-data-readiness-index](#) framework + scoring tool
 - [3d-bioprint-optimiser](#) photopolymerization parameter optimisation
@@ -27,10 +27,10 @@ I am open to contracts, consulting engagements, and research collaborations. If 
 
 ---
 
-### 🛠 Stack
+### Stack
 `Python` `scikit-learn` `XGBoost` `LSTM` `TensorFlow` `SQL` `Power BI` `REST APIs` `Make` `Zapier` `HTML/CSS/JS`
 
 ---
 
-### 📎 Find me
+### Find me
 [DSReview](https://dsreview.org) · [LinkedIn](https://linkedin.com/in/mayenbk) · [MentorDevHub](https://github.com/MentorDevHub)
