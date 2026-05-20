@@ -1,35 +1,36 @@
 ## MAYEN BEN-KOKO (SHE/HER) 
 
-Hi, I’m Mayen
+# Hey, I am Mayen
 
-I am an applied data and digital systems practitioner focused on building practical, reliable analytics and workflows across operational and healthcare-adjacent contexts.
+I am a data and digital systems practitioner based in London. My work sits somewhere between applied AI, research, data engineering, and figuring out why digital systems don't work the way they should particularly in health and public sector contexts across the UK and Africa.
 
-My work emphasises data structure, exploratory analysis, and responsible use of machine learning, prioritising clarity and usefulness over complexity or hype.
+I have an MSc in Biomedical Engineering from Queen Mary, and I run [Giboel & Co Ltd], a data and AI consultancy. I also founded [DSReview](https://dsreview.org), a quarterly publication on digital infrastructure and data governance.
 
----
-
-### What I work on
-
-- Applied data analysis and exploratory analytics
-
-- Lightweight digital systems and workflow design
-
-- Healthcare-adjacent analytics and data responsibility
-
-- Documentation-first, learning-focused open-source projects
+I am open to contracts, consulting engagements, and research collaborations. If something here is useful to you, feel free to reach out.
 
 ---
 
-### Selected work
-
-- MedInsights, applied healthcare-adjacent data analysis and insight exploration
-
-- HealthShield, exploratory project on data security and responsible handling of sensitive information
-
-- MentorDevHub, community learning initiative supporting practical data and digital skills
+### Research
+- ML framework for neonatal mortality risk stratification using NDHS data · *WorldS4 2026*
+- ML model for predicting the effect of toxic heavy metals in drinking water · *SEB4SDG 2026, Landmark University*
+- Hybrid AI model for civil engineering applications · *Discover Civil Engineering, Springer Nature*
+- DSR Data Readiness Index; a 7-dimension framework for assessing data maturity in organisations
 
 ---
 
-### Community & learning
+### 🔨 Building
+- [neonatal-mortality-ml](#) risk stratification model, NDHS Nigeria
+- [dsr-data-readiness-index](#) framework + scoring tool
+- [3d-bioprint-optimiser](#) photopolymerization parameter optimisation
+- [pram-friendly-london](#) TfL accessibility journey planner
+- [MentorDevHub](https://github.com/MentorDevHub) open-source learning community for early-stage tech practitioners
 
-I contribute to the tech ecosystem through technical writing, mentorship-style open-source guidance, and community involvement, with a focus on making data and machine-learning concepts approachable and context-appropriate.
+---
+
+### 🛠 Stack
+`Python` `scikit-learn` `XGBoost` `LSTM` `TensorFlow` `SQL` `Power BI` `REST APIs` `Make` `Zapier` `HTML/CSS/JS`
+
+---
+
+### 📎 Find me
+[DSReview](https://dsreview.org) · [LinkedIn](https://linkedin.com/in/mayenbk) · [MentorDevHub](https://github.com/MentorDevHub)
